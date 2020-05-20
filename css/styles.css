@@ -10554,3 +10554,6 @@ img.logo {
   max-height: 550px;
 }
 
+p::first-letter{
+  font-size: 2rem;
+}
