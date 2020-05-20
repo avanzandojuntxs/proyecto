@@ -200,7 +200,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  height: 23rem;
+  height: 1.5rem;
 }
 
 svg {
@@ -9989,7 +9989,7 @@ p {
 }
 
 ::selection {
-  background: #fed136;
+  background: #F4A200;
   text-shadow: none;
 }
 
@@ -10008,7 +10008,7 @@ img::-moz-selection {
 .btn-xl {
   padding: 1.25rem 2.5rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1.125rem;
+  font-size: 0.75rem;
   font-weight: 700;
 }
 
@@ -10023,8 +10023,8 @@ img::-moz-selection {
 }
 
 #mainNav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   background-color: #20526D; /* color fondo nar-var*/
 }
 #mainNav .navbar-toggler {
@@ -10058,8 +10058,8 @@ img::-moz-selection {
 
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     border: none;
     background-color: rgba(32, 82, 109, 0.5);
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
@@ -10069,7 +10069,7 @@ img::-moz-selection {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
+    height: 3rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav.navbar-shrink {
@@ -10082,7 +10082,7 @@ img::-moz-selection {
   }
   #mainNav.navbar-shrink .navbar-brand svg,
 #mainNav.navbar-shrink .navbar-brand img {
-    height: 1.5rem;
+    height: 3.5rem;
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
@@ -10113,7 +10113,7 @@ header.masthead .masthead-heading {
   font-size: 3.25rem;
   font-weight: 700;
   line-height: 3.25rem;
-  margin-bottom: none;
+  margin-bottom: 1.5rem;
   margin-top: 0.5rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -10133,8 +10133,8 @@ header.masthead .masthead-heading {
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 4.5rem;
-    margin-bottom: none;
-    margin-top: 4rem;
+    margin-bottom: 1.5rem;
+    margin-top: 2.5rem;
   }
 }
 #portfolio .portfolio-item {
