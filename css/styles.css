@@ -10557,3 +10557,8 @@ img.logo {
 p::first-letter{
   font-size: 2rem;
 }
+
+.ejes {
+  height:130px; 
+  border: 0.5rem solid rgba(244, 162, 0, 0.2);
+}
