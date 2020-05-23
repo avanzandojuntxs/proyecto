@@ -10402,7 +10402,11 @@ header.masthead .masthead-heading {
   margin-top: 1.5rem;
   margin-bottom: 0;
 }
-
+.team-member .team-member-link {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+}
 .figure.tag {
   position: relative;
   margin: 0px;
